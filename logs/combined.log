@@ -1,0 +1,8 @@
+[2025-01-06T04:51:32.207Z] INFO: API: GET /api/record | Status: 401 | Time: 12ms
+[2025-01-06T04:51:40.381Z] INFO: API: POST /api/auth/login | Status: 200 | Time: 108ms
+[2025-01-06T04:51:53.163Z] INFO: API: GET /api/record | Status: 200 | Time: 10ms
+[2025-01-06T04:52:10.024Z] INFO: API: POST /api/record | Status: 200 | Time: 25ms
+[2025-01-06T04:52:22.044Z] INFO: API: GET /api/record | Status: 200 | Time: 7ms
+[2025-01-06T04:52:32.017Z] INFO: API: DELETE /api/record?id=2 | Status: 404 | Time: 7ms
+[2025-01-06T04:53:31.919Z] INFO: API: POST /api/record | Status: 400 | Time: 3ms
+[2025-01-06T04:54:06.172Z] INFO: API: POST /api/record | Status: 400 | Time: 2ms

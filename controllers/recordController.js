@@ -24,9 +24,7 @@ export const getContentList = async(req, res)=>{
 }
 
 export const inactiveRecord = async(req, res)=>{
-    console.log('i am here');
     let {user_id} = req.user;
-    console.log(req.query);
     let {id} = req.query;
     try{
         let result = await deleteRecord(user_id, parseInt(id));
